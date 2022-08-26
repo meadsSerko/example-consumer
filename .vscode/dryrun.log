@@ -1,0 +1,6 @@
+make: Entering directory 'c:/Workspace/PactTesting/JS/example-consumer'
+touch .env
+echo "\n========== STAGE: test (pact) ==========\n"
+npm run test:pact
+make: Leaving directory 'c:/Workspace/PactTesting/JS/example-consumer'
+ 
